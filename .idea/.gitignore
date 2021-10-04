@@ -3,6 +3,6 @@
 /workspace.xml
 /misc.xml
 /modules.xml
-*.iml
+/*.iml
 /inspectionProfiles/profiles_settings.xml
 /vcs.xml
